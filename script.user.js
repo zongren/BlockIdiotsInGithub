@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Block傻逼
+// @name         BlockIdiotsInGithub
 // @namespace    http://tampermonkey.net/
 // @version      2024-01-19
-// @description  Block傻逼
+// @description  Block some idiots and their gibberish projects in search result
 // @author       zongren
 // @match        *://github.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
@@ -45,7 +45,7 @@
             }
         }
         for(var h = 0;h < foundShaBiList.length;h++){
-            console.log("删除一个傻逼")
+            console.log("delete one idiot")
             foundShaBiList[h].remove()
         }
     }
@@ -74,5 +74,5 @@
     observeDOM(document.body, function(m){
         deleteShaBi()
     });
-    console.log("Block傻逼start")
+    console.log("start monitor idiot")
 })();
