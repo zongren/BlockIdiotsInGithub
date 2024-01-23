@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-01-19
 // @description  Block some idiots and their gibberish projects in search result
+// @description:zh-tw  屏蔽一些傻逼
 // @author       zongren
 // @match        *://github.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
