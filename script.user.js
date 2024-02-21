@@ -17,6 +17,7 @@
         "codin-stuffs",
         "cheezcharmer",
         "Daravai1234",
+        "tjqJ62cESiHPj6DdR6vXDAcPp",
     ]
     function isShaBi(href){
         for(var i = 0;i < shaBiList.length;i++){
