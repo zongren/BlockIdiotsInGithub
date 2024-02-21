@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BlockIdiotsInGithub
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Block some idiots and their gibberish projects in search result
 // @description:zh-tw  屏蔽一些傻逼
 // @author       zongren
